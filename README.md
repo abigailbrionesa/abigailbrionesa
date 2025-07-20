@@ -21,14 +21,9 @@
   </a>
 </div>
 
-<hr>
-## 🛠️ Languages and Tools
 
-<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,redux,git,postman,figma" />
 </p>
-
-<hr>
