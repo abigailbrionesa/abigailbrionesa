@@ -5,7 +5,7 @@
   | |         | |
   | |         | |       
   | |_________| |
-  \=____________/          "build a better world through engineering"         
+  \=____________/          "making the world ever better"         
   / """"""""""" \                            
  / ::::::::::::: \                        
 (_________________)
