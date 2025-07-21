@@ -55,7 +55,7 @@ I am a <strong>Computer Science</strong> undergraduate at the University of Roch
 ------
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abigail-briones/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8aa9b0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abigailbriones@email.com"><img src="https://img.shields.io/badge/Email-E28FA5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/abigailbrionesa"><img src="https://img.shields.io/badge/Twitter-7a7d9a?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abigail-briones/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abigailbriones@email.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=D26B82"/></a>
+  <a href="https://x.com/abigailbrionesa"><img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=D26B82"/></a>
 </p>
