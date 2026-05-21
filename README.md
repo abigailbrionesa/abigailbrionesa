@@ -3,7 +3,6 @@
   <br />
   <font color="#C9D3FF" size="6"><strong>Abigail Briones</strong></font>
 </p>
-
 <p align="center">
   <font color="#C9D3FF">computer science | ai systems | full-stack engineering</font>
 </p>
@@ -49,16 +48,6 @@ I am still early in my career and have a lot to learn, so I am trying to get bet
   <li><strong>community infrastructure</strong>, platforms that help students, chapters, and recruiters connect with more clarity</li>
 </ul>
 
-## current focus
-
-I am improving two AI projects that started as hackathon builds and are now becoming stronger engineering systems.
-
-<ul>
-  <li><strong>YachayBot v2</strong>, an evidence-first multilingual search system for public educational and cultural resources</li>
-  <li><strong>WarmiMIND v2</strong>, an AI STEM learning workspace that turns PDFs into source-grounded study sessions</li>
-</ul>
-
-I am also building full-stack infrastructure for student opportunity through LEAD Americas, and I keep coming back to the same question in different forms, how do you build tools that are helpful, trustworthy, and still simple enough for real people to use?
 
 ## stack
 
