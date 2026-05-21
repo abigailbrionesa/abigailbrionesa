@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="100%" src="./assets/profile-gradient-header.svg" alt="Abigail Briones profile banner" />
+  <br />
+  <img width="720" src="./assets/profile-title.svg" alt="Abigail Briones, computer science, AI systems, full-stack engineering" />
+  <br />
 </p>
 
 <samp>
