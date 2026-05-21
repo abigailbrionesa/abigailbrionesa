@@ -1,7 +1,7 @@
 <p align="center">
   <font color="#C9D3FF">⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆</font>
   <br />
-  <font color="#C9D3FF" size="6"><strong>Abigail Briones</strong></font>
+  <font color="#C9D3FF" size="10"><strong>Abigail Briones</strong></font>
 </p>
 <p align="center">
   <font color="#C9D3FF">computer science | ai systems | full-stack engineering</font>
@@ -35,19 +35,7 @@
 
 I am from Peru, studying computer science in the U.S., and a lot of what I build comes from trying to understand how technology can make education and technical opportunity feel less far away.
 
-Right now I am working across AI product engineering, full-stack systems, and technical communities. I like projects where the product idea is human, but the engineering still has to be serious, with clear data boundaries, authentication, evaluation, and enough structure that the work can grow past a demo.
-
-I am still early in my career and have a lot to learn, so I am trying to get better at building systems that are useful, honest about their limits, and clean enough for other people to understand.
-
-## building toward
-
-<ul>
-  <li><strong>source-grounded AI</strong>, retrieval, citations, evaluation, and safer answer generation</li>
-  <li><strong>full-stack platforms</strong>, Next.js, TypeScript, FastAPI, PostgreSQL, Supabase, and production-minded architecture</li>
-  <li><strong>learning systems</strong>, tools that turn messy material into study sessions, guided questions, and better next steps</li>
-  <li><strong>community infrastructure</strong>, platforms that help students, chapters, and recruiters connect with more clarity</li>
-</ul>
-
+Right now I am working across AI product engineering, full-stack systems, and technical communities. I practice engineering with clear data boundaries, authentication, evaluation, and structure.
 
 ## stack
 
