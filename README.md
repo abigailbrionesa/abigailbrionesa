@@ -1,12 +1,11 @@
 <p align="center">
+  <font color="#C9D3FF">⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆</font>
   <br />
-  <font color="#FFB8E0">⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆</font>
-  <br />
-  <font color="#FFB8E0" size="7"><strong>Abigail Briones</strong></font>
+  <font color="#C9D3FF" size="6"><strong>Abigail Briones</strong></font>
 </p>
 
 <p align="center">
-  <font color="#6E3F69">computer science | ai systems | full-stack engineering</font>
+  <font color="#C9D3FF">computer science | ai systems | full-stack engineering</font>
 </p>
 
 <samp>
