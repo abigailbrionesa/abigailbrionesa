@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://abigailbriones.dev">
-    <img src="https://img.shields.io/badge/portfolio-C9D3FF?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/portfolio-C9D3FF?style=for-the-badge&logo=vercel&logoColor=23295F" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abigailbrionesaranda/">
-    <img src="https://img.shields.io/badge/linkedin-C9D3FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-C9D3FF?style=for-the-badge&logo=linkedin&logoColor=23295F" alt="linkedin" />
   </a>
   <a href="mailto:abigailbrionesaranda@gmail.com">
-    <img src="https://img.shields.io/badge/email-C9D3FF?style=for-the-badge&logo=gmail&logoColor=13152F" alt="email" />
+    <img src="https://img.shields.io/badge/email-C9D3FF?style=for-the-badge&logo=gmail&logoColor=23295F" alt="email" />
   </a>
 </p>
 
@@ -95,7 +95,3 @@ I am also building full-stack infrastructure for student opportunity through LEA
 </p>
 
 </samp>
-
-<p align="center">
-  <img width="100%" src="./assets/profile-gradient-footer.svg" alt="soft profile footer wave" />
-</p>
