@@ -1,5 +1,7 @@
 <p align="center">
   <br />
+  <font color="#A3D0FF">⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆</font>
+  <br />
   <font color="#A3D0FF" size="7"><strong>Abigail Briones</strong></font>
 </p>
 
