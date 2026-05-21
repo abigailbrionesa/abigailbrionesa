@@ -40,10 +40,10 @@ Right now I am working across AI product engineering, full-stack systems, and te
 ## stack
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-B996F3?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-B996F3?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-B996F3?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-B996F3?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-23295F?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-23295F?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-23295F?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-23295F?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <p>
