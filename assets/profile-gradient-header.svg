@@ -1,26 +1,19 @@
-<svg width="1600" height="330" viewBox="0 0 1600 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1600" height="280" viewBox="0 0 1600 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Abigail Briones</title>
   <desc id="desc">Soft radial gradient profile banner for Abigail Briones</desc>
-  <rect x="44" y="28" width="1512" height="250" rx="34" fill="#FFF7FD"/>
-  <rect x="44.5" y="28.5" width="1511" height="249" rx="33.5" stroke="#EEE4FF"/>
-  <g clip-path="url(#panel)">
-    <rect x="44" y="28" width="1512" height="250" rx="34" fill="#FFF7FD"/>
-    <g filter="url(#blur)">
-      <circle cx="210" cy="66" r="250" fill="#A3D0FF" fill-opacity="0.62"/>
-      <circle cx="76" cy="245" r="238" fill="#D6DDFF" fill-opacity="0.54"/>
-      <circle cx="1395" cy="74" r="232" fill="#FFB8E0" fill-opacity="0.42"/>
-      <circle cx="1310" cy="250" r="252" fill="#FFC2E4" fill-opacity="0.48"/>
-    </g>
-    <path d="M44 220L107 210.5C170 201 296 182 422 184.8C548 187.7 674 212.3 800 216C926 219.7 1052 202.3 1178 197C1304 191.7 1430 198.3 1493 204.7L1556 211V278H44V220Z" fill="#FFFFFF" fill-opacity="0.58"/>
+  <rect width="1600" height="280" fill="#FFF7FD"/>
+  <g filter="url(#blur)">
+    <circle cx="192" cy="34" r="250" fill="#A3D0FF" fill-opacity="0.62"/>
+    <circle cx="32" cy="241" r="238" fill="#D6DDFF" fill-opacity="0.54"/>
+    <circle cx="1408" cy="45" r="232" fill="#FFB8E0" fill-opacity="0.42"/>
+    <circle cx="1312" cy="258" r="252" fill="#FFC2E4" fill-opacity="0.48"/>
   </g>
-  <text x="800" y="131" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="52" font-weight="700" fill="#13152F">Abigail Briones</text>
-  <text x="800" y="174" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="21" letter-spacing="1.4" fill="#6E3F69">computer science | ai systems | full-stack engineering</text>
+  <rect width="1600" height="280" fill="#FFF7FD" fill-opacity="0.24"/>
+  <text x="800" y="124" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="54" font-weight="700" fill="#13152F">Abigail Briones</text>
+  <text x="800" y="168" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="21" letter-spacing="1.4" fill="#6E3F69">computer science | ai systems | full-stack engineering</text>
   <defs>
-    <clipPath id="panel">
-      <rect x="44" y="28" width="1512" height="250" rx="34"/>
-    </clipPath>
-    <filter id="blur" x="-120" y="-180" width="1840" height="650" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="58"/>
+    <filter id="blur" x="-180" y="-220" width="1960" height="760" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="64"/>
     </filter>
   </defs>
 </svg>
