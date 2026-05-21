@@ -1,0 +1,17 @@
+<svg width="1600" height="170" viewBox="0 0 1600 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Soft gradient footer</title>
+  <desc id="desc">Soft radial gradient footer using Abigail Briones brand colors</desc>
+  <rect width="1600" height="170" fill="#FFF7FD"/>
+  <g filter="url(#blur)">
+    <circle cx="192" cy="20" r="235" fill="#A3D0FF" fill-opacity="0.62"/>
+    <circle cx="32" cy="146" r="230" fill="#D6DDFF" fill-opacity="0.54"/>
+    <circle cx="1408" cy="27" r="225" fill="#FFB8E0" fill-opacity="0.42"/>
+    <circle cx="1312" cy="156" r="245" fill="#FFC2E4" fill-opacity="0.48"/>
+  </g>
+  <path d="M0 58L53.3 67.8C106.7 77.7 213.3 97.3 320 94.3C426.7 91.3 533.3 65.7 640 61.8C746.7 58 853.3 76 960 81.5C1066.7 87 1173.3 80 1280 69.7C1386.7 59.3 1493.3 45.7 1546.7 38.8L1600 32V0H1546.7C1493.3 0 1386.7 0 1280 0C1173.3 0 1066.7 0 960 0C853.3 0 746.7 0 640 0C533.3 0 426.7 0 320 0C213.3 0 106.7 0 53.3 0H0V58Z" fill="#FFFFFF" fill-opacity="0.58"/>
+  <defs>
+    <filter id="blur" x="-160" y="-210" width="1920" height="600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="62"/>
+    </filter>
+  </defs>
+</svg>

@@ -1,18 +1,18 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:FFF7FD,18:FFEEFF,38:FFC2E4,62:EEE4FF,82:D6DDFF,100:B996F3&text=Abigail%20Briones&fontColor=13152F&fontSize=42&fontAlignY=38&desc=computer%20science%20%7C%20ai%20systems%20%7C%20full-stack%20engineering&descSize=15&descAlignY=58" alt="Abigail Briones profile banner" />
+  <img width="100%" src="./assets/profile-gradient-header.svg" alt="Abigail Briones profile banner" />
 </p>
 
 <samp>
 
 <p align="center">
   <a href="https://abigailbriones.dev">
-    <img src="https://img.shields.io/badge/portfolio-AD2975?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/portfolio-C9D3FF?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abigailbrionesaranda/">
-    <img src="https://img.shields.io/badge/linkedin-23295F?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-C9D3FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:abigailbrionesaranda@gmail.com">
-    <img src="https://img.shields.io/badge/email-B996F3?style=for-the-badge&logo=gmail&logoColor=13152F" alt="email" />
+    <img src="https://img.shields.io/badge/email-C9D3FF?style=for-the-badge&logo=gmail&logoColor=13152F" alt="email" />
   </a>
 </p>
 
@@ -57,10 +57,10 @@ I am also building full-stack infrastructure for student opportunity through LEA
 ## stack
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-AD2975?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-AD2975?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-AD2975?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-AD2975?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-C9D3FF?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-C9D3FF?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-C9D3FF?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-C9D3FF?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <p>
@@ -97,5 +97,5 @@ I am also building full-stack infrastructure for student opportunity through LEA
 </samp>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:B996F3,18:D6DDFF,42:EEE4FF,68:FFC2E4,88:FFEEFF,100:FFF7FD" alt="soft profile footer wave" />
+  <img width="100%" src="./assets/profile-gradient-footer.svg" alt="soft profile footer wave" />
 </p>

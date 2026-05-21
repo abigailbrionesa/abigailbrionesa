@@ -1,0 +1,19 @@
+<svg width="1600" height="390" viewBox="0 0 1600 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abigail Briones</title>
+  <desc id="desc">Soft radial gradient profile banner for Abigail Briones</desc>
+  <rect width="1600" height="390" fill="#FFF7FD"/>
+  <g filter="url(#blur)">
+    <circle cx="192" cy="47" r="235" fill="#A3D0FF" fill-opacity="0.62"/>
+    <circle cx="32" cy="335" r="230" fill="#D6DDFF" fill-opacity="0.54"/>
+    <circle cx="1408" cy="62" r="225" fill="#FFB8E0" fill-opacity="0.42"/>
+    <circle cx="1312" cy="359" r="245" fill="#FFC2E4" fill-opacity="0.48"/>
+  </g>
+  <path d="M0 304L53.3 294.2C106.7 284.3 213.3 264.7 320 267.7C426.7 270.7 533.3 296.3 640 300.2C746.7 304 853.3 286 960 280.5C1066.7 275 1173.3 282 1280 292.3C1386.7 302.7 1493.3 316.3 1546.7 323.2L1600 330V390H1546.7C1493.3 390 1386.7 390 1280 390C1173.3 390 1066.7 390 960 390C853.3 390 746.7 390 640 390C533.3 390 426.7 390 320 390C213.3 390 106.7 390 53.3 390H0V304Z" fill="#FFFFFF" fill-opacity="0.58"/>
+  <text x="800" y="136" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="54" font-weight="650" fill="#13152F">Abigail Briones</text>
+  <text x="800" y="181" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" letter-spacing="1.2" fill="#6E3F69">computer science | ai systems | full-stack engineering</text>
+  <defs>
+    <filter id="blur" x="-160" y="-180" width="1920" height="760" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="62"/>
+    </filter>
+  </defs>
+</svg>
