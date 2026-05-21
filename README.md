@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:FFF7FD,28:FFC2E4,62:D6DDFF,100:EEE4FF&text=Abigail%20Briones&fontColor=13152F&fontSize=42&fontAlignY=38&desc=computer%20science%20%7C%20ai%20systems%20%7C%20full-stack%20engineering&descSize=15&descAlignY=58" alt="Abigail Briones profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:FFF7FD,18:FFEEFF,38:FFC2E4,62:EEE4FF,82:D6DDFF,100:B996F3&text=Abigail%20Briones&fontColor=13152F&fontSize=42&fontAlignY=38&desc=computer%20science%20%7C%20ai%20systems%20%7C%20full-stack%20engineering&descSize=15&descAlignY=58" alt="Abigail Briones profile banner" />
 </p>
 
 <samp>
@@ -97,5 +97,5 @@ I am also building full-stack infrastructure for student opportunity through LEA
 </samp>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:EEE4FF,38:D6DDFF,72:FFC2E4,100:FFF7FD" alt="soft profile footer wave" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:B996F3,18:D6DDFF,42:EEE4FF,68:FFC2E4,88:FFEEFF,100:FFF7FD" alt="soft profile footer wave" />
 </p>
