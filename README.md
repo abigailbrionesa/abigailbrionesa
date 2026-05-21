@@ -1,7 +1,10 @@
 <p align="center">
   <br />
-  <img width="720" src="./assets/profile-title.svg" alt="Abigail Briones, computer science, AI systems, full-stack engineering" />
-  <br />
+  <font color="#A3D0FF" size="7"><strong>Abigail Briones</strong></font>
+</p>
+
+<p align="center">
+  <font color="#A3D0FF">computer science | ai systems | full-stack engineering</font>
 </p>
 
 <samp>
